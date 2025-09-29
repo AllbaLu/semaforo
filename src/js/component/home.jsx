@@ -11,6 +11,7 @@ import react from "react";
 const Home = () => {
 	return ( 
 		<div>
+			<h1 className="mt-3 ms-5">Prueba</h1>
 	
 			<Card />
 		</div>
